@@ -1,9 +1,9 @@
 <?php
 header("Access-Control-Allow-Origin: *");
 $servername = "localhost";
-$username = "id19881891_akash1509";
-$password = "LuffyC0der1509@";
-$dbname = "id19881891_baseak";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
